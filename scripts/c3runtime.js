@@ -4851,6 +4851,7 @@ self.C3_ExpressionFuncs = [
 		() => -500,
 		() => "i am a cheater",
 		() => 10,
+		() => "i'm a cheater",
 		() => "i give up",
 		() => "diagonal right",
 		() => 550,
